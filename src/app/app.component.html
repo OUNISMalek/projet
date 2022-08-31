@@ -1,0 +1,26 @@
+<div class="toolbar" role="banner">
+  <img
+    width="50"
+    alt="Angular Logo"
+    src="../assets/Sans titre.png" />
+  <span> Bienvenue à Smite Services</span>
+  <div class="spacer"></div>
+   
+</div>
+
+<div class="content" role="main">
+
+  <header>
+    <img class="logo" >
+    <nav>
+      <ul class="nav__links">
+        <li><a routerLink="/stock">Stock</a></li>
+        <li><a routerLink="/charge">charges</a></li>
+        <li><a routerLink="/facture">Factures</a></li>
+        <li><a href="#">Déconnexion</a></li>
+        <router-outlet></router-outlet>
+      </ul>
+      
+    </nav>
+  </header>
+</div>

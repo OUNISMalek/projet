@@ -1,0 +1,50 @@
+{
+  "Product": [
+    {
+      "productName": "pince",
+      "category": "A",
+      "quantity": "5",
+      "code": "E475693218",
+      "comment": "hssksqjdj",
+      "date": "2022-11-21T23:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "tourne-vise",
+      "category": "A",
+      "quantity": "4",
+      "code": "F456672",
+      "comment": "JKKLMMM",
+      "date": "2022-11-08T23:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Ico 16",
+      "category": "B",
+      "quantity": "4",
+      "code": "E4427619",
+      "comment": "there is 4 Ico16",
+      "date": "2022-11-07T23:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "porté 4m",
+      "category": "A",
+      "quantity": "5",
+      "code": "E475693218",
+      "comment": "4m",
+      "date": "2022-11-21T23:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

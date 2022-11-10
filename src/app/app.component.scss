@@ -1,4 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.example-spacer {
+  flex: 1 1 auto;
+}
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+td, th {
+  width: 25%;
+}
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+
+
+/*@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 *{
     box-sizing: border-box;
@@ -33,6 +55,7 @@ li, a, button{
 }
 .nav__links li a{
     transition: all 0.3s ease 0s;
+    font-size: 18px;
 }
 .nav__links li a:hover{
     color: #044454;
@@ -315,10 +338,10 @@ button:hover{
     left: -230px;
     z-index: -10;
     width: 1920px;
-  }
+  }*/
 
   /* Responsive Styles */
-  @media screen and (max-width: 767px) {
+  /*@media screen and (max-width: 767px) {
     .card-container > *:not(.circle-link) ,
     .terminal {
       width: 100%;
@@ -344,7 +367,7 @@ button:hover{
       display: none;
       visibility: hidden;
     }
-  }
+  }*/
 
 
 
